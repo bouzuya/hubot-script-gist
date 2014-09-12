@@ -1,6 +1,6 @@
 {
-  "name": "hubot-hubot-script-gist",
-  "version": "0.0.0",
+  "name": "hubot-script-gist",
+  "version": "1.0.0",
   "description": "A Hubot script that load hubot script from the gist url",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bouzuya/hubot-hubot-script-gist.git"
+    "url": "git://github.com/bouzuya/hubot-script-gist.git"
   },
   "keywords": [
     "hubot",
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bouzuya/hubot-hubot-script-gist/issues"
+    "url": "https://github.com/bouzuya/hubot-script-gist/issues"
   },
-  "homepage": "https://github.com/bouzuya/hubot-hubot-script-gist",
+  "homepage": "https://github.com/bouzuya/hubot-script-gist",
   "devDependencies": {
     "coffee-script": "^1.7.1",
     "del": "^0.1.2",
