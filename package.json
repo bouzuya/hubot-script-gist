@@ -1,6 +1,6 @@
 {
   "name": "hubot-script-gist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that load hubot script from the gist url",
   "main": "index.js",
   "scripts": {
